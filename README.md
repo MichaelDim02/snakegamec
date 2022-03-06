@@ -1,2 +1,2 @@
 # snakegamec
-Snake game in C
+Snake game in C. Has a bug 
